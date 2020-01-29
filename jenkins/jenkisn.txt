@@ -1,0 +1,30 @@
+
+
+Jenkin Install the step by step blow the refers links 
+
+
+---> Install Jenkins unbtu 16.04
+
+STEP:1
+
+ link:https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04
+
+STEP:2
+
+LINK:https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+STEP:3
+
+sudo apt-get install git
+
+step:4
+
+sudo apt-get install maven
+
+we have above flow the step by step install the jenkins machnine
+
+NOte:if any dought above steps contact the number:7013041961
+
+ 
+
+
